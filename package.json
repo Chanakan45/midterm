@@ -1,0 +1,15 @@
+{
+  "name": "exam",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nay",
+  "license": "ISC",
+  "dependencies": {
+    "expess": "^0.0.1-security",
+    "express": "^4.18.2"
+  }
+}
